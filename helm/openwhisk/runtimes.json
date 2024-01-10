@@ -48,9 +48,9 @@
                 "kind": "python:3",
                 "default": true,
                 "image": {
-                    "prefix": "openwhisk",
-                    "name": "action-python-v3.7",
-                    "tag": "1.17.0"
+                    "prefix": "rexzheng",
+                    "name": "action-python-v3.11",
+                    "tag": "mlflow"
                 },
                 "deprecated": false,
                 "attached": {
